@@ -3,11 +3,11 @@
 Very tiny classless css
 
 Only 1KB gziped.
+[Demo](https://levy42.github.io/femto-css/)
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/levy42/femto-css@refs/heads/main/femto.min.css">
 ```
-
 ## Demo (img)
 <img width="972" alt="image" src="https://github.com/user-attachments/assets/a1f05175-32ba-428c-8096-11a2c888112b" />
 
