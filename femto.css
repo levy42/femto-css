@@ -11,13 +11,13 @@ body {
     > header {
         background: Canvas;
         position: fixed;
-        block-size: 2em;
+        block-size: 2.5em;
         align-content: center;
         top: 0;
     }
 
     &:has(> header) {
-        padding-top: 2em;
+        padding-top: 3.5em;
     }
 }
 
@@ -164,11 +164,10 @@ details > summary {
 
 [role=row] {
     display: flex;
+    gap: 1em;
 }
 
 [aria-colspan] {
-    padding: .2em;
-    margin: .2em;
     width: calc(attr(aria-colspan%) * 8.333);
 }
 
