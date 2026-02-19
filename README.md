@@ -1,8 +1,7 @@
 # femto-css
 
-Very tiny classless css
+Tiny classless css (Only 1KB gziped.)
 
-Only 1KB gziped.
 [Demo](https://levy42.github.io/femto-css/)
 
 ```html
